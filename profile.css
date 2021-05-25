@@ -1,0 +1,43 @@
+body{
+	background-color: #003844;
+	font-family: 'Pangolin', cursive;
+	color: #F194B4 ;
+}
+h1{
+	font-family: 'Roboto Mono', monospace;
+	color: #F45B69 ; 
+	letter-spacing: 15px ;
+	font-weight: 300 ;
+	font-size: 50px;
+}
+p{
+    color: #C9E4CA ;
+}
+h2{
+	letter-spacing: 10px
+}
+a{
+	color: #FFEBC6;
+}
+a:hover{
+	color: #006C67;
+}
+img{
+	width: 400px;
+}
+ .img-circle{
+ 	border: 50%
+ }
+div {
+	background: #41393E;
+	padding: 30px 20px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.8);
+	border-radius: 7px;
+	width: 300px;
+
+
+}
+.img-circle{
+border-radius: 50%;
+
+}
